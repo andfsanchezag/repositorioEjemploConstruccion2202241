@@ -1,0 +1,10 @@
+app\app\App.class
+app\validators\PersonInputsValidator.class
+app\App.class
+app\validators\MaterialInputsValidator.class
+app\validators\InputsValidator.class
+app\models\Loan.class
+app\models\Person.class
+app\models\Movenment.class
+app\config\MYSQLConnection.class
+app\models\Material.class
